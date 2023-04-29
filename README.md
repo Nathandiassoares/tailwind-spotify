@@ -15,3 +15,4 @@ Para instalar o Tailwind CSS, basta seguir as instruções na [documentação of
 
 Já para utilizar a biblioteca de ícones Lucide, basta importar o arquivo CSS e utilizar os ícones diretamente em seu código HTML. Mais informações podem ser encontradas na [documentação oficial](https://lucide.dev/docs).
 
+OBS: Projeto não responsivo!
