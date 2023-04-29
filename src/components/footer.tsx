@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className="bg-zinc-800 border-t border-zinc-700 px-5 py-1 flex items-center justify-between">
       <div className="flec items-center gap-3">
-        <Image src="/album2.jpg" className="w-full" width={56} height={56} alt="capa do album" />
+        <Image src="/album02.jpg" className="w-full" width={56} height={56} alt="capa do album" />
         <div className="flex flex-col">
           <strong className="font-normal">Rope</strong>
           <span className="text-xs text-zinc-400">Aloy is back</span>
